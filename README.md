@@ -3,7 +3,7 @@
 ## Paper Reference
 **Title:** _Linguistic Landscape of Generative AI Perception: A Global Twitter Analysis Across 14 Languages_  
 **URL:** [\[https://arxiv.org/abs/2405.20037\]](https://arxiv.org/abs/2405.20037)  
-**Abstract (Optional):**  
+**Abstract:**  
 > The advent of generative AI tools has had a profound impact on societies globally, transcending geographical boundaries. Understanding these tools' global reception and utilization is crucial for service providers and policymakers in shaping future policies. Therefore, to unravel the perceptions and engagements of individuals within diverse linguistic communities with regard to generative AI tools, we extensively analyzed over 6.8 million tweets in 14 different languages. Our findings reveal a global trend in the perception of generative AI, accompanied by language-specific nuances. While sentiments toward these tools vary significantly across languages, there is a prevalent positive inclination toward Image tools and a negative one toward Chat tools. Notably, the ban of ChatGPT in Italy led to a sentiment decline and initiated discussions across languages. Furthermore, we established a taxonomy for interactions with chatbots, creating a framework for social analysis underscoring variations in generative AI usage among linguistic communities. We find that the Chinese community predominantly employs chatbots as substitutes for search, while the Italian community tends to present more intricate prompts. Our research provides a robust foundation for further explorations of the social dynamics surrounding generative AI tools and offers invaluable insights for decision-makers in policy, technology, and education.
 
 
