@@ -69,21 +69,6 @@ This repository contains three datasets related to the use and perception of Gen
   - Understand user behavior by categorizing ChatGPT use cases (e.g., searching for information, seeking creative support, etc.).  
   - Compare usage patterns by language or region.
 
----
-
-## Usage Notes
-
-1. **Data Privacy**  
-   - While this repository does not contain direct tweet text, `TweetID` can be used to fetch the original tweets through Twitter’s API. Please ensure compliance with Twitter’s Terms of Service and privacy policies if you retrieve original tweet content.
-2. **Copyright & License**  
-   - Each tweet is copyright by its respective creator. The datasets here are meant primarily for research and academic use.  
-   - If you plan to use or redistribute the data, please do so responsibly and in accordance with the license terms (if specified). Always include citations to this repository and the Paper.
-3. **Limitations**  
-   - Some information may be incomplete or imperfect (e.g., OCR errors, translation inaccuracies).  
-   - The dataset’s coverage is limited to specific Generative AI tools and time periods. It may not capture every emergent tool or usage scenario.
-4. **Updates**  
-   - We may update or extend these datasets over time. Check the repository for any additions or improvements.  
-   - Please open an Issue or Pull Request for any feedback or bug reports.
 
 ---
 
